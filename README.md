@@ -9,4 +9,5 @@
 <p>- CSS</p>
 <br>
 <img src="https://github.com/AlexSCS/Easy-Shopping/blob/master/Img/Easy-shopping-desktop.png?raw=true" alt="imagem-dektop">
+<br>
 <img src="https://github.com/AlexSCS/Easy-Shopping/blob/master/Img/Easy-shopping-mobile.png?raw=true" alt="imagem-mobile">
