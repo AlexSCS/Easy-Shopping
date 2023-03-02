@@ -8,5 +8,5 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <br>
-<img src="https://github.com/AlexSCS/Easy-Shopping/blob/master/Img/Easy-shopping-desktop.png?raw=true">
-<img src=" ">
+<img src="https://github.com/AlexSCS/Easy-Shopping/blob/master/Img/Easy-shopping-desktop.png?raw=true" alt="imagem-dektop">
+<img src="https://github.com/AlexSCS/Easy-Shopping/blob/master/Img/Easy-shopping-mobile.png?raw=true" alt="imagem-mobile">
